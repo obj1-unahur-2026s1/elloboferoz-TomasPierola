@@ -1,3 +1,5 @@
 object abuela {
-    var peso = 50
+    method peso() {
+        return 50
+    }
 }
